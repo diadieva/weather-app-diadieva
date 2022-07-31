@@ -214,5 +214,5 @@ hr {
 }
 .myname {
     font-size: 15px;
-    color: red;
+    display: inline;
 }
